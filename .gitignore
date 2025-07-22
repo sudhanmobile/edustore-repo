@@ -1,6 +1,6 @@
-/tmp/
+tmp/
 
-/metadata/dump_*
+metadata/dump_*
 
 # used in fdroidserver's ./jenkins-test
 keystore.jks
