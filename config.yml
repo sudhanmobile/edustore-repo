@@ -3,7 +3,7 @@
 # your system configuration.
 
 # Custom path to the Android SDK, defaults to $ANDROID_HOME
-sdk_path: c:/Users/boopa/AppData/Local/Android/Sdk
+sdk_path: {env: ANDROID_SDK_ROOT}
 
 # Paths to installed versions of the Android NDK.  This will be
 # automatically filled out from well known sources like
@@ -98,7 +98,7 @@ repo_icon: icon.png
 #
 # allow_disabled_algorithms: true
 
-apksigner: 'c:/Users/boopa/AppData/Local/Android/Sdk/build-tools/35.0.0/apksigner.bat'
+apksigner: '{env: ANDROID_SDK_ROOT}/build-tools/35.0.0/apksigner.bat'
 
 # Normally, all apps are collected into a single app repository, like on
 # https://f-droid.org. For certain situations, it is better to make a repo

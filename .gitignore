@@ -3,6 +3,6 @@ tmp/
 metadata/dump_*
 
 # used in fdroidserver's ./jenkins-test
-keystore.jks
-keystore.p12
+keystore.*
 
+.env
