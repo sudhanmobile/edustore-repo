@@ -98,7 +98,7 @@ repo_icon: icon.png
 #
 # allow_disabled_algorithms: true
 
-apksigner: '{env: ANDROID_SDK_ROOT}/build-tools/35.0.0/apksigner.bat'
+apksigner: {env: APKSIGNER_PATH}
 
 # Normally, all apps are collected into a single app repository, like on
 # https://f-droid.org. For certain situations, it is better to make a repo
