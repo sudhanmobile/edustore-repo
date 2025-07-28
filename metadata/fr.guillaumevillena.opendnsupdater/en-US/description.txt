@@ -1,0 +1,17 @@
+OpenDNSUpdater is an educational application.
+
+This app requires Android 21+ and targets Android 34.
+
+File size: 3.27 MB
+
+Permissions required:
+• Access Network State
+• Internet
+• Post Notifications
+• Expand Status Bar
+• Foreground Service
+• Access Coarse Location
+• Dynamic Receiver Not Exported Permission
+• Wake Lock
+• Access Wifi State
+• Receive Boot Completed

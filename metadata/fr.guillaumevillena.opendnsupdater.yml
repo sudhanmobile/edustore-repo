@@ -1,9 +1,46 @@
-AuthorName: ''
+AutoName: OpenDNSUpdater
+Builds: []
 Categories:
-- edustore-repo
-CurrentVersionCode: 2147483647
+- Education
+CurrentVersion: 2.2.4
+CurrentVersionCode: '224'
+Description: 'OpenDNSUpdater is an educational application.
+
+
+  This app requires Android 21+ and targets Android 34.
+
+
+  File size: 3.27 MB
+
+
+  Permissions required:
+
+  • Access Network State
+
+  • Internet
+
+  • Post Notifications
+
+  • Expand Status Bar
+
+  • Foreground Service
+
+  • Access Coarse Location
+
+  • Dynamic Receiver Not Exported Permission
+
+  • Wake Lock
+
+  • Access Wifi State
+
+  • Receive Boot Completed
+
+  '
+FeatureGraphic: null
+Icon: null
 IssueTracker: ''
-Name: OpenDNSUpdater
+License: Unknown
+RepoType: git
 SourceCode: ''
-Summary: ''
+Summary: OpenDNSUpdater - Educational App
 WebSite: ''
