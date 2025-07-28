@@ -1,8 +1,10 @@
+allow_disabled_algorithms: true
 apksigner: /usr/local/lib/android/sdk/build-tools/35.0.0/apksigner
 keydname: CN=DESKTOP-TH7GRVH, OU=F-Droid
 keypass: GRPrxgV5Zo/kXKZgoPpmrstZO6koIe/gwNektTj7eRQ=
 keystore: keystore.p12
 keystorepass: GRPrxgV5Zo/kXKZgoPpmrstZO6koIe/gwNektTj7eRQ=
+make_current_version_link: false
 repo_description: This is a repository of apps to be used with EduStore. Applications
   in this repository are either official binaries built by the original application
   developers, or are binaries built from source by the admin of edustore.org using
@@ -12,3 +14,4 @@ repo_keyalias: DESKTOP-TH7GRVH
 repo_name: EduStore Repo
 repo_url: https://sudhanmobile.github.io/edustore-repo/repo
 sdk_path: /usr/local/lib/android/sdk
+update_stats: false
